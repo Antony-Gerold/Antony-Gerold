@@ -12,7 +12,7 @@ I mostly work on medical imaging and computer vision. I usually learn the most f
 
 Other projects: [6DOF pose estimation](https://github.com/Antony-Gerold/pose-estimation-6dof-showcase) and [cast-metal serial number recognition](https://github.com/Antony-Gerold/cast-metal-serial-recognition-showcase).
 
-Code for the coursework projects is private because of academic policy, but I'm happy to walk through any of them.
+Some coursework code is still private, but I'm happy to walk through any of my projects.
 
 Looking for full-time ML and computer vision roles in Canada.
 
