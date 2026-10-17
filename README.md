@@ -1,6 +1,6 @@
 # Hi, I'm Antony Gerold Arockiasamy
 
-I just finished my MEng in Computer Engineering at the University of Guelph, where I did my capstone in Prof. Eranga Ukwatta's Imaging AI Lab. Before that I worked for two years as a Deep Learning Engineer at Appasamy Associates on retinal OCT imaging, and before that I studied mechanical engineering.
+I just finished my MEng in Computer Engineering at the University of Guelph, where I did my capstone in Prof. Eranga Ukwatta's Imaging AI Lab. Before that I spent about two years at Appasamy working on medical imaging, first in computer vision R&D and then as a deep learning engineer.
 
 I mostly work on medical imaging and computer vision. I usually learn the most from figuring out why a model fails.
 
